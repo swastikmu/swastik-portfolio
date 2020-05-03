@@ -1,0 +1,38 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Inconsolata', monospace;
+   }
+   .navbar.bg-dark {
+    background-color: black !important;
+  }
+body{
+    overflow-x:hidden;
+}
+  .nav-link {
+    color: white;
+  }
+  
+  .text{
+    color: white !important;
+  }
+  .row{
+      height: 300px;
+  }
+  img {
+    border-radius: 15px;
+  }
+  .section {
+    margin-top: 200px;
+  }
+  .container-fluid{
+      height: 100%;
+  }
+  .gap{
+      margin-top: 50px;
+  }
+  .section {
+    margin-top: 100px;
+  }
+  .form-group {
+    margin-bottom: 0;
+  }
